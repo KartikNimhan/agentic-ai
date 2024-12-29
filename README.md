@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Agentic AI: A Multi-Agent System for Web and Finance Insights**
 
 **Agentic AI** is a Python-based multi-agent system designed to gather web-based information and stock data using cutting-edge AI models. It integrates powerful tools like **Groq** for efficient AI computation and utilizes **DuckDuckGo** for web search and **Yahoo Finance (YFinance)** for financial data. The system's architecture is composed of individual agents, each with specific roles, including a **Web Search Agent** and a **Finance Agent**. These agents work in tandem to provide real-time stock insights and web-based information, displaying results in structured formats like tables for easy interpretation.
@@ -53,8 +52,4 @@ Include any licenses if necessary (e.g., MIT License).
 
 ---
 
-This description gives potential users and contributors a clear understanding of the purpose of the project, the technologies used, and how to get started.
-=======
-# agentic-ai
-A multi-agent system for web and finance insights
->>>>>>> 8abf43fd662c1246c5303245d97e4fad1ca8c58d
+
